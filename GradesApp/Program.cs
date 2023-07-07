@@ -18,7 +18,7 @@ namespace GradesApp
 
                 if ((grade >= 98) && (grade <= 100))
                 {
-                    Console.WriteLine("Your letter grade is " + "A+");
+                    Console.WriteLine("Your letter grade is " + "A +");
                 }
                 else if ((grade >= 92) && (grade <= 97))
                 {
@@ -26,11 +26,11 @@ namespace GradesApp
                 }
                 else if ((grade >= 90) && (grade <= 91))
                 {
-                    Console.WriteLine("Your letter grade is " + "A-");
+                    Console.WriteLine("Your letter grade is " + "A -");
                 }
                 else if ((grade >= 88) && (grade <= 89))
                 {
-                    Console.WriteLine("Your letter grade is " + "B+");
+                    Console.WriteLine("Your letter grade is " + "B +");
                 }
                 else if ((grade >= 82) && (grade <= 87))
                 {
@@ -38,11 +38,11 @@ namespace GradesApp
                 }
                 else if ((grade >= 80) && (grade <= 81))
                 {
-                    Console.WriteLine("Your letter grade is " + "B-");
+                    Console.WriteLine("Your letter grade is " + "B -");
                 }
                 else if ((grade >= 78) && (grade <= 79))
                 {
-                    Console.WriteLine("Your letter grade is " + "C+");
+                    Console.WriteLine("Your letter grade is " + "C +");
                 }
                 else if ((grade >= 72) && (grade <= 77))
                 {
@@ -50,11 +50,11 @@ namespace GradesApp
                 }
                 else if ((grade >= 70) && (grade <= 71))
                 {
-                    Console.WriteLine("Your letter grade is " + "C-");
+                    Console.WriteLine("Your letter grade is " + "C -");
                 }
                 else if ((grade >= 68) && (grade <= 69))
                 {
-                    Console.WriteLine("Your letter grade is " + "D+");
+                    Console.WriteLine("Your letter grade is " + "D +");
                 }
                 else if ((grade >= 62) && (grade <= 67))
                 {
@@ -62,7 +62,7 @@ namespace GradesApp
                 }
                 else if ((grade >= 60) && (grade <= 61))
                 {
-                    Console.WriteLine("Your letter grade is " + "D-");
+                    Console.WriteLine("Your letter grade is " + "D -");
                 }
                 else if ((grade < 60))
                 {
